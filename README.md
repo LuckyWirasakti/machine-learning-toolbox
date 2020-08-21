@@ -4,3 +4,5 @@
 - Information Gain (IG)
 - Min Max Normalization
 
+## Maintainer 
+- Lucky Wirasakti
